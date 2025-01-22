@@ -1,0 +1,6 @@
+feles-omen-desk.sfc.wide.ad.jp {
+    root * /usr/share/caddy
+    file_server
+    tls feles@sfc.wide.ad.jp
+}
+
